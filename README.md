@@ -14,15 +14,15 @@ This repository contains the source for the [Blunix GmbH](https://www.blunix.com
 When cloning this site, you need to initialize the theme submodule:
 
 ```bash
-git clone --recurse-submodules git@github.com:Blunix-GmbH/blunix.com.git
-cd blunix.com
+git clone --recurse-submodules git@github.com:Blunix-GmbH/website-www.blunix.com.git
+cd website-www.blunix.com
 ```
 
 Or if you've already cloned without submodules:
 
 ```bash
-git clone git@github.com:Blunix-GmbH/blunix.com.git
-cd blunix.com
+git clone git@github.com:Blunix-GmbH/website-www.blunix.com.git
+cd website-www.blunix.com
 git submodule update --init --recursive
 ```
 
@@ -45,7 +45,7 @@ Output goes to `public/` directory.
 ## Site Structure
 
 ```
-blunix.com/
+website-www.blunix.com/
   config/
     _default/
       config.toml           # Main configuration
