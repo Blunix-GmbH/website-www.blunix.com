@@ -1,0 +1,17 @@
+[en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/en"
+title = "Blunix GmbH"
+weight = 1
+
+[en.params]
+
+[de]
+languageName = "Deutsch"
+languageCode = "de"
+contentDir = "content/de"
+title = "Blunix GmbH"
+weight = 2
+
+[de.params]

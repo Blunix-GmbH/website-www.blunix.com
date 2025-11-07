@@ -1,0 +1,34 @@
+baseURL = 'https://blunixdev.netlify.app/'                                 # 'https://www.blunix.com/'
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+languageCode = 'en'
+title = 'Blunix GmbH'
+description = 'Linux Support 24/7, Consulting, Managed Hosting, Trainings'
+theme = "hugo-theme-blunix"
+uglyURLs = true
+disableKinds = ["taxonomy", "term"]
+
+# RSS feed configuration
+[outputFormats.RSS]
+baseName = "rss"
+mediaType = "application/rss+xml"
+
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
+[markup.highlight]
+codeFences = true
+guessSyntax = false
+noClasses = true
+
+[build]
+
+[[build.cachebusters]]
+source = 'layouts/.*'
+target = 'css'
+
+[[build.cachebusters]]
+source = "assets/css/main\\.css"
+target = "css"

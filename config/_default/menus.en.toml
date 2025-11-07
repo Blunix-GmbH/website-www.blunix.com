@@ -1,0 +1,133 @@
+[[main]]
+name = "Home"
+url = "/"
+weight = 10
+
+[[main]]
+identifier = "services"
+name = "Services"
+url = "#"
+weight = 20
+
+[[main]]
+name = "Ideology"
+url = "/ideology.html"
+weight = 30
+
+[[main]]
+name = "Blog"
+url = "/blog/"
+weight = 40
+
+[[main]]
+name = "Manual"
+url = "https://www.blunix.com/manual/"
+weight = 50
+
+[[main]]
+name = "Code"
+url = "https://git.blunix.com/welcome/index.html"
+weight = 60
+
+[[main]]
+name = "Jobs"
+url = "/jobs.html"
+weight = 70
+
+[[main]]
+name = "Contact"
+url = "/index.html#contact"
+weight = 80
+
+[[footer]]
+name = "Home"
+url = "/index.html"
+weight = 10
+
+[[footer]]
+name = "Linux Support"
+url = "/linux-support.html"
+weight = 20
+
+[[footer]]
+name = "Linux Consulting"
+url = "/linux-consulting.html"
+weight = 30
+
+[[footer]]
+name = "Managed Hosting"
+url = "/linux-managed-hosting.html"
+weight = 40
+
+[[footer]]
+name = "Qubes OS Consulting and Support"
+url = "/qubes-os-consulting-and-support.html"
+weight = 50
+
+[[footer]]
+name = "Training"
+url = "/linux-personal-trainings-and-workshops.html"
+weight = 60
+
+[[footer]]
+name = "Ideology"
+url = "/ideology.html"
+weight = 70
+
+[[footer]]
+name = "Jobs"
+url = "/jobs.html"
+weight = 80
+
+[[footer]]
+name = "Contact"
+url = "/#contact"
+weight = 85
+
+[[footer]]
+name = "Legal & Privacy"
+url = "/legal-and-privacy.html"
+weight = 90
+
+[[services]]
+name = "Linux Emergency Support"
+url = "/linux-emergency-support.html"
+weight = 10
+[services.params]
+icon = "uil uil-fire"
+
+[[services]]
+name = "Linux Support"
+url = "/linux-support.html"
+weight = 20
+[services.params]
+icon = "uil uil-fire"
+
+[[services]]
+name = "Linux Consulting for Projects"
+url = "/linux-consulting.html"
+weight = 30
+[services.params]
+icon = "uil uil-server"
+extraSpacing = true
+
+[[services]]
+name = "Linux Managed Hosting"
+url = "/linux-managed-hosting.html"
+weight = 40
+[services.params]
+icon = "uil uil-cloud-data-connection"
+
+[[services]]
+name = "Qubes OS Consulting"
+url = "/qubes-os-consulting-and-support.html"
+weight = 50
+[services.params]
+icon = "uil uil-window-grid"
+
+[[services]]
+name = "Trainings & Workshops"
+url = "/linux-personal-trainings-and-workshops.html"
+weight = 60
+[services.params]
+icon = "uil uil-graduation-cap"

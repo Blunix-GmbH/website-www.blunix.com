@@ -1,0 +1,10 @@
+[build]
+command = "hugo"
+publish = "public"
+
+[context.production.processing]
+  pretty_urls = false
+
+
+[build.environment]
+HUGO_VERSION = "0.151.0"

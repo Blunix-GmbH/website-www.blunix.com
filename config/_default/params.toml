@@ -1,0 +1,27 @@
+logo = '/images/logo.svg'
+
+footer_logo = '/images/logo-full.svg'
+
+featured_image = 'featured.webp'
+
+
+[[contact]]
+name = "narocanje@blunix.com"
+icon = "fa-solid fa-envelope"
+link = "mailto:narocanje@blunix.com"
+
+[[contact]]
+name = "+386 70 844 244"
+icon = "fa-solid fa-phone"
+link = "tel:+38670844244"
+
+
+[[banner_link]]
+name = "+386 70 844 244"
+icon = "fa-solid fa-mobile-screen-button"
+link = "tel:+38670844244"
+
+[[banner_link]]
+name = "narocanje@blunix.com"
+icon = "fa-solid fa-envelope"
+link = "mailto:narocanje@blunix.com"
