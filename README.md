@@ -103,7 +103,6 @@ blocks:
       text: "Contact Us"
       link: "/contact/"
 ---
-
 Additional content goes here (optional).
 ```
 
@@ -143,14 +142,14 @@ logo = '/images/logo.svg'
 footer_logo = '/images/logo-full.svg'
 
 [[contact]]
-name = "narocanje@blunix.com"
+name = "info@blunix.com"
 icon = "fa-solid fa-envelope"
-link = "mailto:narocanje@blunix.com"
+link = "mailto:info@blunix.com"
 
 [[contact]]
-name = "+386 70 844 244"
+name = "+49 30 / 629 322 67"
 icon = "fa-solid fa-phone"
-link = "tel:+38670844244"
+link = "tel:+493062932267"
 ```
 
 ### Navigation Menus
@@ -238,6 +237,7 @@ The site is configured for Netlify deployment via `netlify.toml`:
 ```
 
 Netlify automatically:
+
 1. Initializes the theme submodule
 2. Builds with Hugo
 3. Publishes from `public/`
@@ -328,6 +328,7 @@ The site supports English and German:
 ### Adding Translations
 
 1. Create content in both languages:
+
    ```
    content/en/my-page.md
    content/de/my-page.md
@@ -340,6 +341,7 @@ The site supports English and German:
 ### Translation Strings
 
 UI translations are defined in the theme's `i18n/` files:
+
 - `themes/hugo-theme-blunix/i18n/en.yaml`
 - `themes/hugo-theme-blunix/i18n/de.yaml`
 
