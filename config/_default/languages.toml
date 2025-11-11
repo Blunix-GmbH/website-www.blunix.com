@@ -6,6 +6,42 @@ title = "Blunix GmbH"
 weight = 1
 
 [en.params]
+footer_copyright_notice = "Copyright Notice"
+footer_social_media = "Social Media"
+footer_all_rights_reserved = "All rights reserved."
+footer_listed_with = "Listed with official Debian Consultants"
+footer_listed_with_text = "Blunix GmbH is listed with"
+
+[[en.params.social_media]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/blunix-gmbh"
+title = "linkedin.com: Linux Support"
+icon = "/images/footer/linkedin-logo.webp"
+alt = "Linkedin Logo"
+
+[[en.params.social_media]]
+name = "dev.to"
+url = "https://dev.to/blunixgmbh"
+title = "dev.to: Linux Support"
+icon = "/images/footer/devto-logo.webp"
+alt = "devto Logo"
+
+[[en.params.social_media]]
+name = "Mastodon"
+url = "https://mastodon.social/@blunixgmbh"
+title = "mastodon.social: Blunix GmbH Mastodon Page"
+icon = "/images/footer/mastodon-logo.webp"
+alt = "Mastodon Logo"
+
+[[en.params.debian_links]]
+name = "debian.org/consultants"
+url = "https://www.debian.org/consultants/index.de.html#DE"
+title = "debian.org: List of Debian consultants"
+
+[[en.params.debian_links]]
+name = "openbsd.org/support.html"
+url = "https://www.openbsd.org/support.html#Germany"
+title = "openbsd.org: List of OpenBSD consultants"
 
 [de]
 languageName = "Deutsch"
@@ -15,3 +51,41 @@ title = "Blunix GmbH"
 weight = 2
 
 [de.params]
+footer_copyright_notice = "Urheberrechtshinweis"
+footer_social_media = "Social Media"
+footer_all_rights_reserved = "Alle Rechte vorbehalten."
+footer_listed_with = "Offiziell anerkanntes Beratungsunternehmen"
+footer_listed_with_text = "für Debian Linux ("
+footer_listed_with_text_middle = ") und OpenBSD ("
+footer_listed_with_text_end = ")"
+
+[[de.params.social_media]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/company/blunix-gmbh"
+title = "linkedin.com: Linux Support"
+icon = "/images/footer/linkedin-logo.webp"
+alt = "Linkedin Logo"
+
+[[de.params.social_media]]
+name = "dev.to"
+url = "https://dev.to/blunixgmbh"
+title = "dev.to: Linux Support"
+icon = "/images/footer/devto-logo.webp"
+alt = "devto Logo"
+
+[[de.params.social_media]]
+name = "Mastodon"
+url = "https://mastodon.social/@blunixgmbh"
+title = "mastodon.social: Blunix GmbH Mastodon Seite"
+icon = "/images/footer/mastodon-logo.webp"
+alt = "Mastodon Logo"
+
+[[de.params.debian_links]]
+name = "debian.org/consultants"
+url = "https://www.debian.org/consultants/index.de.html#DE"
+title = "debian.org: Liste der Debian-Beratungsdienstleister in Deutschland"
+
+[[de.params.debian_links]]
+name = "openbsd.org/support.html"
+url = "https://www.openbsd.org/support.html#Germany"
+title = "openbsd.org: Liste der OpenBSD-Beratungsdienstleister in Deutschland"

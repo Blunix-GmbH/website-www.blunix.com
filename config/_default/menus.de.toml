@@ -1,6 +1,6 @@
 [[main]]
-name = "Startseite"
-url = "/de/index.html"
+name = "Start"
+url = "/de/"
 weight = 10
 
 [[main]]
@@ -11,7 +11,7 @@ weight = 20
 
 [[main]]
 name = "Ideologie"
-url = "/de/ideology.html"
+url = "/de/ideologie.html"
 weight = 30
 
 [[main]]
@@ -20,7 +20,7 @@ url = "/blog/"
 weight = 40
 
 [[main]]
-name = "Handbuch"
+name = "Manual"
 url = "https://www.blunix.com/manual/"
 weight = 50
 
@@ -40,58 +40,98 @@ url = "/de/index.html#contact"
 weight = 80
 
 [[footer]]
-name = "Startseite"
-url = "/de/index.html"
+identifier = "website"
+name = "Website"
+url = "#"
 weight = 10
 
 [[footer]]
+parent = "website"
+name = "Startseite"
+url = "/de/"
+weight = 10
+
+[[footer]]
+parent = "website"
 name = "Linux Support"
 url = "/de/linux-support.html"
 weight = 20
 
 [[footer]]
+parent = "website"
 name = "Linux Consulting"
 url = "/de/linux-consulting.html"
 weight = 30
 
 [[footer]]
+parent = "website"
 name = "Managed Hosting"
 url = "/de/linux-managed-hosting.html"
 weight = 40
 
 [[footer]]
-name = "Qubes OS"
-url = "/de/qubes-os-consulting-and-support.html"
+parent = "website"
+name = "Qubes OS Beratung und Support"
+url = "/de/qubes-os-beratung-und-support.html"
 weight = 50
 
 [[footer]]
-name = "Training"
-url = "/de/linux-personal-trainings-and-workshops.html"
+parent = "website"
+name = "Schulungen"
+url = "/de/linux-schulungen-und-workshops.html"
 weight = 60
 
 [[footer]]
+parent = "website"
 name = "Ideologie"
-url = "/de/ideology.html"
+url = "/de/ideologie.html"
 weight = 70
 
 [[footer]]
+parent = "website"
 name = "Jobs"
 url = "/de/jobs.html"
 weight = 80
 
 [[footer]]
+parent = "website"
 name = "Kontakt"
-url = "/de/index.html#contact"
+url = "/de/#contact"
 weight = 85
 
 [[footer]]
-name = "Rechtliches & Datenschutz"
-url = "/de/legal-and-privacy.html"
+parent = "website"
+name = "Datenschutz und Rechtliches"
+url = "/de/rechtliches-und-datenschutz.html"
 weight = 90
+
+[[footer]]
+identifier = "hosting"
+name = "Hosting"
+url = "#"
+weight = 20
+
+[[footer]]
+parent = "hosting"
+name = "Dokumentation"
+url = "https://www.blunix.com/manual/"
+weight = 10
+
+[[footer]]
+parent = "hosting"
+name = "Code"
+url = "https://git.blunix.com/welcome/index.html"
+weight = 20
+
+[[footer]]
+parent = "hosting"
+name = "Blog"
+url = "/blog/"
+weight = 30
 
 [[services]]
 name = "Linux Notfall Support"
-url = "/de/linux-emergency-support.html"
+url = "/de/linux-notfall-support.html"
 weight = 10
 [services.params]
 icon = "uil uil-fire"
@@ -104,7 +144,7 @@ weight = 20
 icon = "uil uil-fire"
 
 [[services]]
-name = "Linux Consulting"
+name = "Linux Beratung für Projekte"
 url = "/de/linux-consulting.html"
 weight = 30
 [services.params]
@@ -119,15 +159,15 @@ weight = 40
 icon = "uil uil-cloud-data-connection"
 
 [[services]]
-name = "Qubes OS Beratung"
-url = "/de/qubes-os-consulting-and-support.html"
+name = "Qubes OS Consulting"
+url = "/de/qubes-os-beratung-und-support.html"
 weight = 50
 [services.params]
 icon = "uil uil-window-grid"
 
 [[services]]
 name = "Schulungen & Workshops"
-url = "/de/linux-personal-trainings-and-workshops.html"
+url = "/de/linux-schulungen-und-workshops.html"
 weight = 60
 [services.params]
 icon = "uil uil-graduation-cap"

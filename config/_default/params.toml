@@ -6,22 +6,22 @@ featured_image = 'featured.webp'
 
 
 [[contact]]
-name = "narocanje@blunix.com"
+name = "info@blunix.com"
 icon = "fa-solid fa-envelope"
-link = "mailto:narocanje@blunix.com"
+link = "mailto:info@blunix.com"
 
 [[contact]]
-name = "+386 70 844 244"
+name = "+49 30 / 629 322 67"
 icon = "fa-solid fa-phone"
-link = "tel:+38670844244"
+link = "tel:+493062932267"
 
 
 [[banner_link]]
-name = "+386 70 844 244"
+name = "+49 30 / 629 322 67"
 icon = "fa-solid fa-mobile-screen-button"
-link = "tel:+38670844244"
+link = "tel:+493062932267"
 
 [[banner_link]]
-name = "narocanje@blunix.com"
+name = "info@blunix.com"
 icon = "fa-solid fa-envelope"
-link = "mailto:narocanje@blunix.com"
+link = "mailto:info@blunix.com"

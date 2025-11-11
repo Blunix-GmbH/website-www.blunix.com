@@ -40,54 +40,94 @@ url = "/index.html#contact"
 weight = 80
 
 [[footer]]
+identifier = "website"
+name = "Website"
+url = "#"
+weight = 10
+
+[[footer]]
+parent = "website"
 name = "Home"
 url = "/index.html"
 weight = 10
 
 [[footer]]
+parent = "website"
 name = "Linux Support"
 url = "/linux-support.html"
 weight = 20
 
 [[footer]]
+parent = "website"
 name = "Linux Consulting"
 url = "/linux-consulting.html"
 weight = 30
 
 [[footer]]
+parent = "website"
 name = "Managed Hosting"
 url = "/linux-managed-hosting.html"
 weight = 40
 
 [[footer]]
+parent = "website"
 name = "Qubes OS Consulting and Support"
 url = "/qubes-os-consulting-and-support.html"
 weight = 50
 
 [[footer]]
+parent = "website"
 name = "Training"
 url = "/linux-personal-trainings-and-workshops.html"
 weight = 60
 
 [[footer]]
+parent = "website"
 name = "Ideology"
 url = "/ideology.html"
 weight = 70
 
 [[footer]]
+parent = "website"
 name = "Jobs"
 url = "/jobs.html"
 weight = 80
 
 [[footer]]
+parent = "website"
 name = "Contact"
 url = "/#contact"
 weight = 85
 
 [[footer]]
+parent = "website"
 name = "Legal & Privacy"
 url = "/legal-and-privacy.html"
 weight = 90
+
+[[footer]]
+identifier = "hosting"
+name = "Hosting"
+url = "#"
+weight = 20
+
+[[footer]]
+parent = "hosting"
+name = "Documentation"
+url = "https://www.blunix.com/manual/"
+weight = 10
+
+[[footer]]
+parent = "hosting"
+name = "Code"
+url = "https://git.blunix.com/welcome/index.html"
+weight = 20
+
+[[footer]]
+parent = "hosting"
+name = "Blog"
+url = "/blog/"
+weight = 30
 
 [[services]]
 name = "Linux Emergency Support"
