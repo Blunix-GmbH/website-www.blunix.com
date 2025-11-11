@@ -1,5 +1,6 @@
 ---
 title: "Blunix GmbH Berlin Fehlerseite - Es ist ein Fehler aufgetreten"
+slug: "fehler"
 description: "Es ist ein Fehler aufgetreten. Bitte bewahren Sie Ruhe und vermeiden Sie hektische Bewegungen. Bitte kontaktieren Sie Ihre Administratorin oder Ihren Administrator."
 heading: "Ein Fehler ist aufgetreten"
 layout: "error"

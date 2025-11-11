@@ -1,6 +1,5 @@
 ---
 title: "Blunix GmbH Berlin: Linux Support, Consulting und Hosting"
-url: "index.html"
 description: "Linux Support 24/7, projektbasierte Linux-Beratung, Managed Hosting mit FOSS-Konfigurationsmanagement sowie Linux-Workshops und Schulungen"
 image: "/images/index/background.webp"
 
@@ -149,7 +148,7 @@ blocks:
     buttons:
       - label: "Mehr über Qubes OS erfahren"
         title: "Qubes OS Consulting und Support"
-        url: "qubes-os-consulting-and-support.html"
+        url: "qubes-os-beratung-und-support.html"
       - label: "Qubes OS mit uns evaluieren"
         title: "Kontakt"
         url: "#contact"
@@ -174,7 +173,7 @@ blocks:
     buttons:
       - label: "Detaillierte Informationen"
         title: "Persönliche Linux-Schulungen und Workshops"
-        url: "linux-personal-trainings-and-workshops.html"
+        url: "linux-schulungen-und-workshops.html"
       - label: "Mit unseren Linux-Trainern sprechen"
         title: "Kontakt"
         url: "#contact"

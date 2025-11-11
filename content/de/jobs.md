@@ -1,5 +1,6 @@
 ---
 title: "Blunix GmbH Jobs und offene Positionen. Bewirb dich jetzt!"
+slug: "jobs"
 description: "Verfügbare Vor-Ort- und Remote-Stellen bei der Blunix GmbH in Berlin. Wir suchen jederzeit erfahrene Linux Consultants! Remote-Arbeit möglich."
 layout: "jobs"
 image: "/images/jobs/background.webp"

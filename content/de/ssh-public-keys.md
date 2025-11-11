@@ -1,5 +1,6 @@
 ---
 title: "SSH-Public-Keys der Blunix GmbH für Linux Notfall Support"
+slug: "ssh-public-keys"
 description: "Die SSH-Public-Keys unserer Consultants für den Linux Support. Fügen Sie nur den Schlüssel der Person hinzu, mit der Sie gerade sprechen, und entfernen Sie ihn nach Abschluss des Einsatzes."
 layout: "ssh-public-keys"
 url: "/de/ssh-public-keys.html"

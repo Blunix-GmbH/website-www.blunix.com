@@ -1,5 +1,6 @@
 ---
 title: "Blunix GmbH Berlin – Rechtliche Hinweise und Datenschutz"
+slug: "rechtliches-und-datenschutz"
 description: "Rechtliche Angaben und Datenschutzhinweise der Blunix GmbH mit Sitz in Berlin für eine konforme und sichere Nutzung."
 layout: "legal-and-privacy"
 image: "/images/legal-and-privacy/background.webp"

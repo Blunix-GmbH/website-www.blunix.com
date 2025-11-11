@@ -1,5 +1,6 @@
 ---
 title: "Linux Notfall Support: 24/7/365 Bereitschaft"
+slug: "linux-notfall-support"
 description: "Linux Notfall-Support für alle IaaS-Anbieter, Cloud-Instanzen, physische Server und individuelle Colocations mit Debian und Ubuntu Linux."
 image: "/images/linux-emergency-support/background.webp"
 
@@ -247,10 +248,10 @@ blocks:
       - url: "linux-managed-hosting.html"
         title: "Linux Managed Hosting"
         text: "Linux Managed Hosting"
-      - url: "qubes-os-consulting-and-support.html"
+      - url: "qubes-os-beratung-und-support.html"
         title: "Qubes OS Beratung und Support"
         text: "Qubes OS Beratung und Support"
-      - url: "linux-personal-trainings-and-workshops.html"
+      - url: "linux-schulungen-und-workshops.html"
         title: "Linux Schulungen und Workshops"
         text: "Linux Schulungen und Workshops"
 ---

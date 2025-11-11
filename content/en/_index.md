@@ -1,6 +1,5 @@
 ---
 title: "Blunix GmbH Berlin: Linux Support, Consulting and Hosting"
-url: "index.html"
 description: "Linux Support 24/7, Project based Linux Consulting, Managed Hosting with FOSS Configuration Management as well as Linux Workshops and Trainings"
 image: "/images/index/background.webp"
 

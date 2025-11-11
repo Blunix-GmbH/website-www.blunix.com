@@ -1,5 +1,6 @@
 ---
 title: "Individuelle Linux Workshops und Schulungen – vor Ort und online"
+slug: "linux-schulungen-und-workshops"
 description: "Vor-Ort-Schulungen und Workshops in Deutschland und Europa. Maßgeschneiderte Kurse für Ihre Entwicklerinnen und Entwickler. Faire Tagespauschale für Gruppen bis acht Teilnehmende"
 image: "/images/linux-personal-trainings-and-workshops/background.webp"
 
@@ -134,7 +135,7 @@ blocks:
 
   - block: cta
     links:
-      - url: "linux-emergency-support.html"
+      - url: "linux-notfall-support.html"
         title: "Linux Notfall Support"
         text: "Linux Notfall Support"
       - url: "linux-consulting.html"
@@ -143,7 +144,7 @@ blocks:
       - url: "linux-managed-hosting.html"
         title: "Linux Managed Hosting"
         text: "Linux Managed Hosting"
-      - url: "qubes-os-consulting-and-support.html"
+      - url: "qubes-os-beratung-und-support.html"
         title: "Qubes OS Beratung und Support"
         text: "Qubes OS Beratung und Support"
 ---

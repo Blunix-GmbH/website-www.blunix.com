@@ -1,5 +1,6 @@
 ---
 title: "Linux Managed Hosting mit FOSS Konfigurationsmanagement"
+slug: "linux-managed-hosting"
 description: "Vollständig gemanagtes Linux-Hosting auf Debian mit root@-Zugriff und Open-Source-Konfigurationsmanagement, das exakt auf Ihre Bedürfnisse zugeschnitten ist"
 image: "/images/linux-managed-hosting/background.webp"
 
@@ -257,16 +258,16 @@ blocks:
 
   - block: cta
     links:
-      - url: "linux-emergency-support.html"
+      - url: "linux-notfall-support.html"
         title: "Linux Notfall Support"
         text: "Linux Notfall Support"
       - url: "linux-consulting.html"
         title: "Projektbasierte Linux Beratung"
         text: "Linux Consulting für Projekte"
-      - url: "qubes-os-consulting-and-support.html"
+      - url: "qubes-os-beratung-und-support.html"
         title: "Qubes OS Beratung und Support"
         text: "Qubes OS Beratung und Support"
-      - url: "linux-personal-trainings-and-workshops.html"
+      - url: "linux-schulungen-und-workshops.html"
         title: "Linux Schulungen und Workshops"
         text: "Linux Schulungen und Workshops"
 ---

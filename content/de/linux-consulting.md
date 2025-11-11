@@ -1,5 +1,6 @@
 ---
 title: "Blunix GmbH Berlin – Linux Server Beratung"
+slug: "linux-consulting"
 description: "Linux Consulting für Debian- und Ubuntu-Linux auf IaaS-Cloud-Instanzen, physischen Servern und in Colocations."
 image: "/images/linux-consulting/background.webp"
 
@@ -307,16 +308,16 @@ blocks:
 
   - block: cta
     links:
-      - url: "linux-emergency-support.html"
+      - url: "linux-notfall-support.html"
         title: "Linux Notfall Support"
         text: "Linux Notfall Support"
       - url: "linux-managed-hosting.html"
         title: "Linux Managed Hosting"
         text: "Linux Managed Hosting"
-      - url: "qubes-os-consulting-and-support.html"
+      - url: "qubes-os-beratung-und-support.html"
         title: "Qubes OS Beratung und Support"
         text: "Qubes OS Beratung und Support"
-      - url: "linux-personal-trainings-and-workshops.html"
+      - url: "linux-schulungen-und-workshops.html"
         title: "Linux Schulungen und Workshops"
         text: "Linux Schulungen und Workshops"
 ---

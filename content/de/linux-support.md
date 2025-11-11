@@ -1,5 +1,6 @@
 ---
 title: "Linux Support und Expertenrat für Unternehmen"
+slug: "linux-support"
 description: "Linux Support für Distributions-Upgrades, Migrationen, Evaluierung neuer Technologien, Best-Practice-Prüfungen und fundierte Beratung."
 image: "/images/linux-support/background.webp"
 
@@ -127,10 +128,10 @@ blocks:
       - url: "linux-managed-hosting.html"
         title: "Linux Managed Hosting"
         text: "Linux Managed Hosting"
-      - url: "qubes-os-consulting-and-support.html"
+      - url: "qubes-os-beratung-und-support.html"
         title: "Qubes OS Beratung und Support"
         text: "Qubes OS Beratung und Support"
-      - url: "linux-personal-trainings-and-workshops.html"
+      - url: "linux-schulungen-und-workshops.html"
         title: "Linux Schulungen und Workshops"
         text: "Linux Schulungen und Workshops"
 ---

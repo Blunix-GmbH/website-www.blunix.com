@@ -1,5 +1,6 @@
 ---
 title: "Qubes OS Beratung und Support für Hochrisiko-Umgebungen"
+slug: "qubes-os-beratung-und-support"
 description: "Wir integrieren das hochsichere Betriebssystem Qubes OS in Ihr Unternehmen: Evaluation, Installation, Konfiguration und laufender Support"
 image: "/images/qubes-consulting/background.webp"
 
@@ -131,7 +132,7 @@ blocks:
 
   - block: cta
     links:
-      - url: "linux-emergency-support.html"
+      - url: "linux-notfall-support.html"
         title: "Linux Notfall Support"
         text: "Linux Notfall Support"
       - url: "linux-consulting.html"
@@ -140,7 +141,7 @@ blocks:
       - url: "linux-managed-hosting.html"
         title: "Linux Managed Hosting"
         text: "Linux Managed Hosting"
-      - url: "linux-personal-trainings-and-workshops.html"
+      - url: "linux-schulungen-und-workshops.html"
         title: "Linux Schulungen und Workshops"
         text: "Linux Schulungen und Workshops"
 ---

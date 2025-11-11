@@ -1,5 +1,6 @@
 ---
 title: "Faire Geschäftspraktiken und das Wohlbefinden unseres Teams stehen über dem Profit"
+slug: "ideologie"
 description: "Bei der Blunix GmbH stellen wir Stabilität, außergewöhnliche Kundenerlebnisse, faire Partnerschaften und das Wohl unserer Mitarbeitenden über Gewinnmargen."
 image: "/images/ideology/background.webp"
 
@@ -130,7 +131,7 @@ blocks:
 
   - block: cta
     links:
-      - url: "linux-emergency-support.html"
+      - url: "linux-notfall-support.html"
         title: "Linux Notfall Support"
         text: "Linux Notfall Support"
       - url: "linux-consulting.html"
@@ -139,10 +140,10 @@ blocks:
       - url: "linux-managed-hosting.html"
         title: "Linux Managed Hosting"
         text: "Linux Managed Hosting"
-      - url: "qubes-os-consulting-and-support.html"
+      - url: "qubes-os-beratung-und-support.html"
         title: "Qubes OS Beratung und Support"
         text: "Qubes OS Beratung und Support"
-      - url: "linux-personal-trainings-and-workshops.html"
+      - url: "linux-schulungen-und-workshops.html"
         title: "Linux Schulungen und Workshops"
         text: "Linux Schulungen und Workshops"
 ---
